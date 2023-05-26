@@ -11,6 +11,8 @@ Steps:
 2-  Open the code
     ```
     Replace authfile with your new "secret.json"
+    ```
+    ```
     Replace the ID_Video with the id of the video you want to edit
     ```
 3-  Run the program in terminal by:
