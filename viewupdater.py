@@ -14,7 +14,7 @@ from time import sleep
 scopes = ["https://www.googleapis.com/auth/youtube.force-ssl"]
 
 ID_Video = "L1vOfCmRZ3c"
-authfile = "./client_secret_367904571290-shfdpnh9i76t5tls5vjlgre0acg312eb.apps.googleusercontent.com.json"
+authfile = "yourAuthFileHere"
 
 def main():
     os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"
